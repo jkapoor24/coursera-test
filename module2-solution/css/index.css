@@ -18,19 +18,20 @@ p {
 	width: 100%;
 }
 
-.item{
+.unit{
 	margin: 10px;
 	border: 2px solid black;
-	background: grey;
+	background: gray;
 }
 
-.itemtype{
+.unittype{
 	width: 25%;
 	height: 25px;
 	border: 2px solid black;
 	margin: -2px;
 	float: right;
 	text-align: center;
+	font-weight: bold;
 }
 
 #chicken{
